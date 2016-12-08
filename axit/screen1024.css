@@ -1,0 +1,135 @@
+@media screen and (max-width: 1000px) {
+	.header-nav-bar {
+		margin: 0 auto;
+		height: 110px;			
+	}
+}
+@media screen and (max-width: 1024px) {
+	.menu-itm {
+		display: inline-block;	
+		font-size: 12px;			
+	}
+	
+}
+@media screen and (max-width: 1243px) {
+	.header {
+		background-image: none;
+	}
+	.header-content-right {
+		float: none;
+		/*display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		justify-content: center;*/
+		display: inline-block;
+
+	}
+	.form-box {
+		margin-top: -150px;
+		margin-left: 150px;
+		/*width: 50%;*/
+		display: inline-block;
+		/*float: none;
+		display: inline-block;*/
+	}
+
+}
+@media screen and (max-width: 700px) {
+	.section-name {
+		font-size: 14px;
+		width: 90%;
+	}
+	.axit-title p {
+		font-size: 12px;
+		width: 70%;
+	}
+}
+@media screen and (max-width: 600px) {
+	.section-name {
+		font-size: 12px;
+		width: 70%;
+	}
+}
+@media screen and (max-width: 1330px) {
+	.brand-bar-wrap {
+		display: inline-block;
+	}
+	.brand-bar-sprite ul {
+		display: inline-block;
+		width: 100%;
+	}
+}
+@media screen and (max-width: 1326px) {
+	.tabs {
+		display: inline-block;
+	}
+	.infocontent h2 {
+		display: block;
+		font-size: 14px;
+		width: 20%;
+		float: none;
+	}
+	.infocontent p {
+		font-size: 14px;
+		float: none;
+		width: 80%;
+	}
+	.city-png {
+		display: none;
+	}
+
+}
+@media screen and (max-width: 715px) {
+	.infocontent p {
+		font-size: 10px;
+		float: none;
+		width: 20%;
+	}
+}
+@media screen and (max-width: 715px) {
+	.sub-section-left {
+		width: 30%;
+	}
+	.sub-section-right {
+		width: 30%;
+	}
+	.sub-section-title-2-first {
+		margin-bottom: -10px;
+	}
+	.sub-section-title-1-second-span,
+	.sub-section-title-2-second-span,
+	.section-name-sub-list-text {
+		font-size: 10px;
+		line-height: none;		
+	}
+}
+@media screen and (max-width: 1234px) {
+	.section-standard-1 {
+		display: inline-block;
+	}
+	.section-standard-left-span-1 {
+		max-width: 100%;
+	}
+}
+@media screen and (max-width: 1024px) {
+	.process-panel-down-1,
+	.process-panel-down-2,
+	.process-panel-down-3 {
+	 	float: none;
+		display: inline-block;
+		margin: 0 auto;
+	}
+	.jeremy, .john, .susan {
+		display: none;
+	}
+	.contacts-get {
+		width: 50%;
+	}
+	.footer-sprite {
+		display: none;
+	}
+	.last {
+		display: inline-block;
+		margin: 0 auto;
+	}
+}
